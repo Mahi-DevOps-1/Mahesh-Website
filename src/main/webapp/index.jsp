@@ -9,7 +9,7 @@
 <body>
 
     <div class="about-section">
-        <h1>About Us Page</h1>
+        <h1>About Us</h1>
         <p>Some text about who we are and what we do.</p>
         <p>Resize the browser window to see that this page is responsive by the way.</p>
     </div>
@@ -18,32 +18,35 @@
     
     <div class="team-container">
         <div class="team-card">
-            <img src="https://via.placeholder.com/300" alt="Jane Doe">
-            <h2>Jane Doe</h2>
+            <img src="https://via.placeholder.com/300" alt="Mahesh Bagul">
+            <h2>Mahesh Bagul</h2>
             <p class="title">CEO & Founder</p>
             <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-            <p>jane@example.com</p>
+            <p>maheshbagul1201@gmail.com</p>
             <button>Contact</button>
         </div>
 
+    <div class="team-container">
         <div class="team-card">
-            <img src="https://via.placeholder.com/300" alt="Mike Ross">
-            <h2>Mike Ross</h2>
-            <p class="title">Art Director</p>
+            <img src="https://via.placeholder.com/300" alt="Mayur Ahhirao">
+            <h2>Mayur Ahhirao</h2>
+            <p class="title">CEO & Founder</p>
             <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-            <p>mike@example.com</p>
+            <p>mayurahhirao123@gmail.com</p>
             <button>Contact</button>
         </div>
 
+    <div class="team-container">
         <div class="team-card">
-            <img src="https://via.placeholder.com/300" alt="John Doe">
-            <h2>John Doe</h2>
-            <p class="title">Designer</p>
+            <img src="https://via.placeholder.com/300" alt="Aniket Bandewar">
+            <h2>Aniket Bandewar</h2>
+            <p class="title">CEO & Founder</p>
             <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-            <p>john@example.com</p>
+            <p>aniketbandewar3254@gmail.com</p>
             <button>Contact</button>
         </div>
-    </div>
+
+      </div>
 
 </body>
 </html>
