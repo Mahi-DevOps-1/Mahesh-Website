@@ -9,6 +9,14 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
+    <label for="Addhar No"><b>Addhar No</b></label>
+    <input type="text" placeholder="Enter Addhar No" name="Addhar No" id="Addhar No" required>
+    <br>
+    
+    <label for="Father Name"><b>Father Name</b></label>
+    <input type="text" placeholder="Enter Father Name" name="Father Name" id="Father Name" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
