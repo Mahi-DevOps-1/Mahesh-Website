@@ -1,58 +1,49 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f8f8f8;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
-.about-section {
-    background-color: #444;
-    color: white;
-    text-align: center;
-    padding: 50px;
-}
+    <div class="about-section">
+        <h1>About Us Page</h1>
+        <p>Some text about who we are and what we do.</p>
+        <p>Resize the browser window to see that this page is responsive by the way.</p>
+    </div>
 
-.team-container {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-    padding: 20px;
-}
+    <h2 style="text-align:center">Our Team</h2>
+    
+    <div class="team-container">
+        <div class="team-card">
+            <img src="https://via.placeholder.com/300" alt="Jane Doe">
+            <h2>Jane Doe</h2>
+            <p class="title">CEO & Founder</p>
+            <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+            <p>jane@example.com</p>
+            <button>Contact</button>
+        </div>
 
-.team-card {
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-    width: 300px;
-    text-align: center;
-    padding: 20px;
-}
+        <div class="team-card">
+            <img src="https://via.placeholder.com/300" alt="Mike Ross">
+            <h2>Mike Ross</h2>
+            <p class="title">Art Director</p>
+            <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+            <p>mike@example.com</p>
+            <button>Contact</button>
+        </div>
 
-.team-card img {
-    width: 100%;
-    border-radius: 8px;
-}
+        <div class="team-card">
+            <img src="https://via.placeholder.com/300" alt="John Doe">
+            <h2>John Doe</h2>
+            <p class="title">Designer</p>
+            <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+            <p>john@example.com</p>
+            <button>Contact</button>
+        </div>
+    </div>
 
-.team-card h2 {
-    margin: 10px 0;
-}
-
-.title {
-    color: grey;
-    font-size: 18px;
-}
-
-button {
-    background-color: black;
-    color: white;
-    padding: 10px;
-    border: none;
-    width: 100%;
-    cursor: pointer;
-    margin-top: 10px;
-}
-
-button:hover {
-    background-color: #555;
-}
+</body>
+</html>
