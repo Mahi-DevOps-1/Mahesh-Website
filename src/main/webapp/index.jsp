@@ -45,8 +45,6 @@
             <p>aniketbandewar3254@gmail.com</p>
             <button>Contact</button>
         </div>
-
       </div>
-
 </body>
 </html>
