@@ -28,6 +28,16 @@
 
     <div class="team-container">
         <div class="team-card">
+            <img src="https://via.placeholder.com/300" alt="Chaitali Kashid">
+            <h2>Chaitali Kashid</h2>
+            <p class="title"> Finance Manager </p>
+            <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+            <p>chaitalikashid15@gmail.com</p>
+            <button>Contact</button>
+        </div>
+
+    <div class="team-container">
+        <div class="team-card">
             <img src="https://via.placeholder.com/300" alt="Mayur Ahhirao">
             <h2>Mayur Ahhirao</h2>
             <p class="title">CEO & Founder</p>
