@@ -18,7 +18,7 @@
     
     <div class="team-container">
         <div class="team-card">
-            <img src="https://via.placeholder.com/300" alt="Mahesh Bagul">
+            <img src="./images/mahesh.jpg" alt="Mahesh Bagul">
             <h2>Mahesh Bagul</h2>
             <p class="title">CEO & Founder</p>
             <p>Some text that describes me lorem ipsum ipsum lorem.</p>
@@ -28,7 +28,7 @@
 
     <div class="team-container">
         <div class="team-card">
-            <img src="https://via.placeholder.com/300" alt="Mayur Ahhirao">
+            <img src="./images/mayur.jpg" alt="Mayur Ahhirao">
             <h2>Mayur Ahhirao</h2>
             <p class="title">CEO & Founder</p>
             <p>Some text that describes me lorem ipsum ipsum lorem.</p>
@@ -38,7 +38,7 @@
 
     <div class="team-container">
         <div class="team-card">
-            <img src="https://via.placeholder.com/300" alt="Chaitali Kashid">
+            <img src="./images/chaitali.jpg" alt="Chaitali Kashid">
             <h2>Chaitali Kashid</h2>
             <p class="title">Managing Director</p>
             <p>Some text that describes me lorem ipsum ipsum lorem.</p>
