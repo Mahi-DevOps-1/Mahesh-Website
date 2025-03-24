@@ -10,8 +10,7 @@
 
     <div class="about-section">
         <h1>About Us</h1>
-        <p>Some text about who we are and what we do.</p>
-        <p>Resize the browser window to see that this page is responsive by the way.</p>
+        <p>As a trusted technology partner, we drive business transformation through cutting-edge solutions in cloud computing, AI, data analytics, software development, and digital engineering. With deep industry expertise, we help businesses innovate, optimize operations, and stay ahead in the digital era.</p>
     </div>
 
     <h2 style="text-align:center">Our Team</h2>
@@ -40,7 +39,7 @@
             <img src="./images/aniket.jpg" alt="Aniket Bandewar">
             <h2>Aniket Bandewar</h2>
             <p class="title">Salesforce Manager</p>
-            <p>I play characters for a living, but myself? That’s the real masterpiece.</p>
+            <p>I play characters for a living, but myself That’s the real masterpiece.</p>
             <p>aniketbandewar123@gmail.com</p>
             <button>Contact</button>
         </div>
@@ -49,7 +48,7 @@
             <img src="./images/mene.jpg" alt="Ankit Mene">
             <h2>Ankit Mene</h2>
             <p class="title">Senior App Developer</p>
-            <p>I don’t just act—I breathe life into characters.</p>
+            <p>I don’t just act, I breathe life into characters.</p>
             <p>ankitmene123@gmail.com</p>
             <button>Contact</button>
         </div>
@@ -58,7 +57,7 @@
             <img src="./images/chaitali.jpg" alt="Chaitali Kashid">
             <h2>Chaitali Kashid</h2>
             <p class="title">Finance Manager</p>
-            <p>Villain, heroine, or the person you can't ignore—watch me redefine every role.</p>
+            <p>Villain, heroine, or the person you can't ignore. watch me redefine every role.</p>
             <p>chaitalikashid2345@gmail.com</p>
             <button>Contact</button>
         </div>
