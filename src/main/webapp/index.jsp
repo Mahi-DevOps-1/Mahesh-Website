@@ -10,7 +10,11 @@
 
     <div class="about-section">
         <h1>About Us</h1>
-        <p>As a trusted technology partner, we drive business transformation through cutting-edge solutions in cloud computing, AI, data analytics, software development, and digital engineering. With deep industry expertise, we help businesses innovate, optimize operations, and stay ahead in the digital era.</p>
+        <p>As a leading force in the entertainment and media industry, we bring stories to life through passion, creativity, and innovation. With years of experience shaping narratives and captivating audiences, we specialize in delivering compelling performances that leave a lasting impact.
+
+Our expertise spans across multiple facets of the industry—from acting and production to strategic content creation. We harness the power of storytelling, technology, and audience engagement to redefine entertainment in the digital era.
+
+Driven by dedication and artistry, we continue to push boundaries, transforming vision into reality and bringing characters to life in ways that inspire, entertain, and connect with the world.</p>
     </div>
 
     <h2 style="text-align:center">Our Team</h2>
@@ -30,7 +34,7 @@
             <img src="./images/mayur.jpg" alt="Mayur Ahhirao">
             <h2>Mayur Ahhirao</h2>
             <p class="title">Senior Data Engineer</p>
-            <p>A storyteller on and off the screen. Turning dreams into reality, one role at a time.</p>
+            <p>They say life’s a movie. Good thing I’m the main character.</p>
             <p>mayurahhirao123@gmail.com</p>
             <button>Contact</button>
         </div>
