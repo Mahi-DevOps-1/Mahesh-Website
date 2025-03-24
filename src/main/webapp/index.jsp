@@ -22,7 +22,7 @@ Driven by dedication and artistry, we continue to push boundaries, transforming 
     <div class="team-container">
 
         <div class="team-card">
-            <img src="./images/mahesh.jpg" alt="Mahesh Bagul">
+            <img src="./images/mahi.jpg" alt="Mahesh Bagul">
             <h2>Mahesh Bagul</h2>
             <p class="title">CEO & Founder</p>
             <p>Drama on screen, elegance in life. Passionate, dedicated, unstoppable.</p>
