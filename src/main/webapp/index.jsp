@@ -30,7 +30,7 @@
         <div class="team-card">
             <img src="./images/mayur.jpg" alt="Mayur Ahhirao">
             <h2>Mayur Ahhirao</h2>
-            <p class="title">CEO & Founder</p>
+            <p class="title">Senior Data Engineer</p>
             <p>A storyteller on and off the screen. Turning dreams into reality, one role at a time.</p>
             <p>mayurahhirao123@gmail.com</p>
             <button>Contact</button>
@@ -48,7 +48,7 @@
         <div class="team-card">
             <img src="./images/mene.jpg" alt="Ankit Mene">
             <h2>Ankit Mene</h2>
-            <p class="title">CEO & Founder</p>
+            <p class="title">Senior App Developer</p>
             <p>I don’t just act—I breathe life into characters.</p>
             <p>ankitmene123@gmail.com</p>
             <button>Contact</button>
@@ -57,7 +57,7 @@
         <div class="team-card">
             <img src="./images/chaitali.jpg" alt="Chaitali Kashid">
             <h2>Chaitali Kashid</h2>
-            <p class="title">Managing Director</p>
+            <p class="title">Finance Manager</p>
             <p>Villain, heroine, or the person you can't ignore—watch me redefine every role.</p>
             <p>chaitalikashid2345@gmail.com</p>
             <button>Contact</button>
