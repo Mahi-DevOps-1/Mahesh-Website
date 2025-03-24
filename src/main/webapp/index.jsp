@@ -17,34 +17,53 @@
     <h2 style="text-align:center">Our Team</h2>
     
     <div class="team-container">
+
         <div class="team-card">
             <img src="./images/mahesh.jpg" alt="Mahesh Bagul">
             <h2>Mahesh Bagul</h2>
             <p class="title">CEO & Founder</p>
-            <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+            <p>Drama on screen, elegance in life. Passionate, dedicated, unstoppable.</p>
             <p>maheshbagul1201@gmail.com</p>
             <button>Contact</button>
         </div>
 
-    <div class="team-container">
         <div class="team-card">
             <img src="./images/mayur.jpg" alt="Mayur Ahhirao">
             <h2>Mayur Ahhirao</h2>
             <p class="title">CEO & Founder</p>
-            <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+            <p>A storyteller on and off the screen. Turning dreams into reality, one role at a time.</p>
             <p>mayurahhirao123@gmail.com</p>
             <button>Contact</button>
         </div>
 
-    <div class="team-container">
+        <div class="team-card">
+            <img src="./images/aniket.jpg" alt="Aniket Bandewar">
+            <h2>Aniket Bandewar</h2>
+            <p class="title">Salesforce Manager</p>
+            <p>I play characters for a living, but myself? That’s the real masterpiece.</p>
+            <p>aniketbandewar123@gmail.com</p>
+            <button>Contact</button>
+        </div>
+
+        <div class="team-card">
+            <img src="./images/mene.jpg" alt="Ankit Mene">
+            <h2>Ankit Mene</h2>
+            <p class="title">CEO & Founder</p>
+            <p>I don’t just act—I breathe life into characters.</p>
+            <p>ankitmene123@gmail.com</p>
+            <button>Contact</button>
+        </div>
+
         <div class="team-card">
             <img src="./images/chaitali.jpg" alt="Chaitali Kashid">
             <h2>Chaitali Kashid</h2>
             <p class="title">Managing Director</p>
-            <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+            <p>Villain, heroine, or the person you can't ignore—watch me redefine every role.</p>
             <p>chaitalikashid2345@gmail.com</p>
             <button>Contact</button>
         </div>
-      </div>
+
+    </div> <!-- Closing team-container div -->
+
 </body>
 </html>
