@@ -38,11 +38,11 @@
 
     <div class="team-container">
         <div class="team-card">
-            <img src="https://via.placeholder.com/300" alt="Aniket Bandewar">
-            <h2>Aniket Bandewar</h2>
+            <img src="https://via.placeholder.com/300" alt="Chaitali Kashid">
+            <h2>Chaitali Kashid</h2>
             <p class="title">CEO & Founder</p>
             <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-            <p>aniketbandewar3254@gmail.com</p>
+            <p>chaitalikashid2345@gmail.com</p>
             <button>Contact</button>
         </div>
       </div>
