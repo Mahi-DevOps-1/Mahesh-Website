@@ -40,7 +40,7 @@
         <div class="team-card">
             <img src="https://via.placeholder.com/300" alt="Chaitali Kashid">
             <h2>Chaitali Kashid</h2>
-            <p class="title">CEO & Founder</p>
+            <p class="title">Managing Director</p>
             <p>Some text that describes me lorem ipsum ipsum lorem.</p>
             <p>chaitalikashid2345@gmail.com</p>
             <button>Contact</button>
