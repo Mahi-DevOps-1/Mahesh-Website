@@ -57,15 +57,6 @@ Driven by dedication and artistry, we continue to push boundaries, transforming 
             <button>Contact</button>
         </div>
 
-        <div class="team-card">
-            <img src="./images/chaitali.jpg" alt="Chaitali Kashid">
-            <h2>Chaitali Kashid</h2>
-            <p class="title">Finance Manager</p>
-            <p>Villain, heroine, or the person you can not ignore. watch me redefine every role.</p>
-            <p>chaitalikashid2345@gmail.com</p>
-            <button>Contact</button>
-        </div>
-
     </div> <!-- Closing team-container div -->
 
 </body>
