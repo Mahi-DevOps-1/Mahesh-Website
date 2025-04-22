@@ -25,7 +25,7 @@ Driven by dedication and artistry, we continue to push boundaries, transforming 
             <img src="./images/mahi.jpg" alt="Mahesh Bagul">
             <h2>Mahesh Bagul</h2>
             <p class="title">DevOps Engineer</p>
-            <p>Drama on screen, elegance in life. Passionate, dedicated, unstoppable.</p>
+	    <p>Blending creativity with code. DevOps by profession, perfection by nature.</p>
             <p>maheshbagul1201@gmail.com</p>
             <button>Contact</button>
         </div>
